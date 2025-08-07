@@ -1,0 +1,1 @@
+To manage the server-side logic, including API endpoints for processing resume data and interacting with the AI model.

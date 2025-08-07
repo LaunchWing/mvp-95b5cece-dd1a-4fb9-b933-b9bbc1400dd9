@@ -1,0 +1,1 @@
+To outline how user data is collected, used, and protected, ensuring compliance with data privacy regulations.

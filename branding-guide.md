@@ -1,0 +1,1 @@
+To document the branding elements such as colors, logo usage, and tagline for consistent application across all marketing materials.

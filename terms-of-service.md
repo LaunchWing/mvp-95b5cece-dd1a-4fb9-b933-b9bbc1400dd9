@@ -1,0 +1,1 @@
+To define the legal terms and conditions for using the application, protecting both the company and the users.
